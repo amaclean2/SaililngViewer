@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/index.css"],"sourcesContent":["#root {\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n}\n\n#map-container {\n  height: 100%;\n  width: 100%;\n  /* temporarily set the background color so we can tell where the map container is positioned */\n  background-color: lightgrey;\n}\n\n.sidebar {\n  background-color: rgb(35 55 75 / 90%);\n  color: #fff;\n  padding: 6px 12px;\n  font-family: monospace;\n  z-index: 1;\n  position: absolute;\n  top: 0;\n  left: 0;\n  margin: 12px;\n  border-radius: 4px;\n}\n\n.reset-button {\n  position: absolute;\n  top: 50px;\n  z-index: 1;\n  left: 12px;\n  padding: 4px 10px;\n  border-radius: 10px;\n  cursor: pointer;\n}\n"],"names":[],"mappings":"AAAA;;;;;AAQA;;;;;;AAOA;;;;;;;;;;;;;AAaA"}}]
+}

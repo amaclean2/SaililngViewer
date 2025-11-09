@@ -1,0 +1,36 @@
+/* [project]/src/index.css [app-client] (css) */
+#root {
+  position: absolute;
+  inset: 0;
+}
+
+#map-container {
+  background-color: #d3d3d3;
+  width: 100%;
+  height: 100%;
+}
+
+.sidebar {
+  color: #fff;
+  z-index: 1;
+  background-color: #23374be6;
+  border-radius: 4px;
+  margin: 12px;
+  padding: 6px 12px;
+  font-family: monospace;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.reset-button {
+  z-index: 1;
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 4px 10px;
+  position: absolute;
+  top: 50px;
+  left: 12px;
+}
+
+/*# sourceMappingURL=src_index_css_bad6b30c._.single.css.map*/
